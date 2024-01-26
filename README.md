@@ -1,1 +1,1 @@
-###Ejercicios de practica en python
+Ejercicios de practica en python
